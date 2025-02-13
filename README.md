@@ -20,5 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basmala-sabbah&show_icons=true&locale=en&layout=compact" alt="basmala-sabbah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basmala-sabbah&show_icons=true&locale=en" alt="basmala-sabbah" /></p>
 
